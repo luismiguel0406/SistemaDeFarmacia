@@ -1,0 +1,5 @@
+C:\Users\luism\documents\visual studio 2015\Projects\Sistema_de _inventarioGP2\ConexionBD\bin\Debug\ConexionBD.dll
+C:\Users\luism\documents\visual studio 2015\Projects\Sistema_de _inventarioGP2\ConexionBD\bin\Debug\ConexionBD.pdb
+C:\Users\luism\documents\visual studio 2015\Projects\Sistema_de _inventarioGP2\ConexionBD\obj\Debug\ConexionBD.csprojResolveAssemblyReference.cache
+C:\Users\luism\documents\visual studio 2015\Projects\Sistema_de _inventarioGP2\ConexionBD\obj\Debug\ConexionBD.dll
+C:\Users\luism\documents\visual studio 2015\Projects\Sistema_de _inventarioGP2\ConexionBD\obj\Debug\ConexionBD.pdb
