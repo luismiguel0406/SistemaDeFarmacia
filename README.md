@@ -6,3 +6,4 @@ This system was made with purpose to help drugstores, which let me know about th
 # How to Run
  - Open or copy the content of  **BDFarmacia.sql** file in SQL server, and run the script.
  - After open the proyect with .Net Framework 4.5.2 (better with 4.8 also).
+ - Credentials are: username 'usuario' , password '1234'
