@@ -1,0 +1,339 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luis del orbe\\source\\repos\\SistemaDeFarmacia\\Sistema_de _inventarioGP2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE06656-7654-436B-BF70-70B3DB245FA6}|Capa_Gestion_de_seguridad\\Capa_Gestion_de_seguridad.csproj|c:\\users\\luis del orbe\\source\\repos\\sistemadefarmacia\\sistema_de _inventariogp2\\capa_gestion_de_seguridad\\cachelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE06656-7654-436B-BF70-70B3DB245FA6}|Capa_Gestion_de_seguridad\\Capa_Gestion_de_seguridad.csproj|solutionrelative:capa_gestion_de_seguridad\\cachelogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446E4C80-4B0D-434E-A9C4-612918215401}|Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2.csproj|c:\\users\\luis del orbe\\source\\repos\\sistemadefarmacia\\sistema_de _inventariogp2\\sistema_de _inventariogp2\\usuarios_gp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{446E4C80-4B0D-434E-A9C4-612918215401}|Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2.csproj|solutionrelative:sistema_de _inventariogp2\\usuarios_gp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446E4C80-4B0D-434E-A9C4-612918215401}|Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2.csproj|c:\\users\\luis del orbe\\source\\repos\\sistemadefarmacia\\sistema_de _inventariogp2\\sistema_de _inventariogp2\\usuarios_gp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{446E4C80-4B0D-434E-A9C4-612918215401}|Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2.csproj|solutionrelative:sistema_de _inventariogp2\\usuarios_gp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446E4C80-4B0D-434E-A9C4-612918215401}|Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2.csproj|c:\\users\\luis del orbe\\source\\repos\\sistemadefarmacia\\sistema_de _inventariogp2\\sistema_de _inventariogp2\\proveedores_gp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{446E4C80-4B0D-434E-A9C4-612918215401}|Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2.csproj|solutionrelative:sistema_de _inventariogp2\\proveedores_gp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446E4C80-4B0D-434E-A9C4-612918215401}|Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2.csproj|c:\\users\\luis del orbe\\source\\repos\\sistemadefarmacia\\sistema_de _inventariogp2\\sistema_de _inventariogp2\\proveedores_gp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{446E4C80-4B0D-434E-A9C4-612918215401}|Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2.csproj|solutionrelative:sistema_de _inventariogp2\\proveedores_gp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446E4C80-4B0D-434E-A9C4-612918215401}|Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2.csproj|c:\\users\\luis del orbe\\source\\repos\\sistemadefarmacia\\sistema_de _inventariogp2\\sistema_de _inventariogp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{446E4C80-4B0D-434E-A9C4-612918215401}|Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2.csproj|solutionrelative:sistema_de _inventariogp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446E4C80-4B0D-434E-A9C4-612918215401}|Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2.csproj|c:\\users\\luis del orbe\\source\\repos\\sistemadefarmacia\\sistema_de _inventariogp2\\sistema_de _inventariogp2\\menu_principal_gp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{446E4C80-4B0D-434E-A9C4-612918215401}|Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2.csproj|solutionrelative:sistema_de _inventariogp2\\menu_principal_gp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446E4C80-4B0D-434E-A9C4-612918215401}|Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2.csproj|c:\\users\\luis del orbe\\source\\repos\\sistemadefarmacia\\sistema_de _inventariogp2\\sistema_de _inventariogp2\\menu_principal_gp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{446E4C80-4B0D-434E-A9C4-612918215401}|Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2.csproj|solutionrelative:sistema_de _inventariogp2\\menu_principal_gp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446E4C80-4B0D-434E-A9C4-612918215401}|Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2.csproj|c:\\users\\luis del orbe\\source\\repos\\sistemadefarmacia\\sistema_de _inventariogp2\\sistema_de _inventariogp2\\inventariogp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{446E4C80-4B0D-434E-A9C4-612918215401}|Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2.csproj|solutionrelative:sistema_de _inventariogp2\\inventariogp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446E4C80-4B0D-434E-A9C4-612918215401}|Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2.csproj|c:\\users\\luis del orbe\\source\\repos\\sistemadefarmacia\\sistema_de _inventariogp2\\sistema_de _inventariogp2\\inventariogp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{446E4C80-4B0D-434E-A9C4-612918215401}|Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2.csproj|solutionrelative:sistema_de _inventariogp2\\inventariogp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446E4C80-4B0D-434E-A9C4-612918215401}|Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2.csproj|c:\\users\\luis del orbe\\source\\repos\\sistemadefarmacia\\sistema_de _inventariogp2\\sistema_de _inventariogp2\\facturacion_gp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{446E4C80-4B0D-434E-A9C4-612918215401}|Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2.csproj|solutionrelative:sistema_de _inventariogp2\\facturacion_gp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446E4C80-4B0D-434E-A9C4-612918215401}|Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2.csproj|c:\\users\\luis del orbe\\source\\repos\\sistemadefarmacia\\sistema_de _inventariogp2\\sistema_de _inventariogp2\\facturacion_gp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{446E4C80-4B0D-434E-A9C4-612918215401}|Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2.csproj|solutionrelative:sistema_de _inventariogp2\\facturacion_gp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446E4C80-4B0D-434E-A9C4-612918215401}|Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2.csproj|c:\\users\\luis del orbe\\source\\repos\\sistemadefarmacia\\sistema_de _inventariogp2\\sistema_de _inventariogp2\\creador_de_factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{446E4C80-4B0D-434E-A9C4-612918215401}|Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2.csproj|solutionrelative:sistema_de _inventariogp2\\creador_de_factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446E4C80-4B0D-434E-A9C4-612918215401}|Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2.csproj|c:\\users\\luis del orbe\\source\\repos\\sistemadefarmacia\\sistema_de _inventariogp2\\sistema_de _inventariogp2\\clientes_gp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{446E4C80-4B0D-434E-A9C4-612918215401}|Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2.csproj|solutionrelative:sistema_de _inventariogp2\\clientes_gp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446E4C80-4B0D-434E-A9C4-612918215401}|Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2.csproj|c:\\users\\luis del orbe\\source\\repos\\sistemadefarmacia\\sistema_de _inventariogp2\\sistema_de _inventariogp2\\clientes_gp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{446E4C80-4B0D-434E-A9C4-612918215401}|Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2.csproj|solutionrelative:sistema_de _inventariogp2\\clientes_gp2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446E4C80-4B0D-434E-A9C4-612918215401}|Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2.csproj|c:\\users\\luis del orbe\\source\\repos\\sistemadefarmacia\\sistema_de _inventariogp2\\sistema_de _inventariogp2\\bienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{446E4C80-4B0D-434E-A9C4-612918215401}|Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2.csproj|solutionrelative:sistema_de _inventariogp2\\bienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446E4C80-4B0D-434E-A9C4-612918215401}|Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2.csproj|c:\\users\\luis del orbe\\source\\repos\\sistemadefarmacia\\sistema_de _inventariogp2\\sistema_de _inventariogp2\\bienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{446E4C80-4B0D-434E-A9C4-612918215401}|Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2.csproj|solutionrelative:sistema_de _inventariogp2\\bienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446E4C80-4B0D-434E-A9C4-612918215401}|Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2.csproj|c:\\users\\luis del orbe\\source\\repos\\sistemadefarmacia\\sistema_de _inventariogp2\\sistema_de _inventariogp2\\inicio_sesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{446E4C80-4B0D-434E-A9C4-612918215401}|Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2.csproj|solutionrelative:sistema_de _inventariogp2\\inicio_sesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{446E4C80-4B0D-434E-A9C4-612918215401}|Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2.csproj|c:\\users\\luis del orbe\\source\\repos\\sistemadefarmacia\\sistema_de _inventariogp2\\sistema_de _inventariogp2\\inicio_sesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{446E4C80-4B0D-434E-A9C4-612918215401}|Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2.csproj|solutionrelative:sistema_de _inventariogp2\\inicio_sesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuarios_Gp2.cs",
+              "DocumentMoniker": "C:\\Users\\Luis del orbe\\source\\repos\\SistemaDeFarmacia\\Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2\\Usuarios_Gp2.cs",
+              "RelativeDocumentMoniker": "Sistema_de _inventarioGP2\\Usuarios_Gp2.cs",
+              "ToolTip": "C:\\Users\\Luis del orbe\\source\\repos\\SistemaDeFarmacia\\Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2\\Usuarios_Gp2.cs",
+              "RelativeToolTip": "Sistema_de _inventarioGP2\\Usuarios_Gp2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:15:47.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuarios_Gp2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis del orbe\\source\\repos\\SistemaDeFarmacia\\Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2\\Usuarios_Gp2.cs",
+              "RelativeDocumentMoniker": "Sistema_de _inventarioGP2\\Usuarios_Gp2.cs",
+              "ToolTip": "C:\\Users\\Luis del orbe\\source\\repos\\SistemaDeFarmacia\\Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2\\Usuarios_Gp2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema_de _inventarioGP2\\Usuarios_Gp2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:15:45.222Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Proveedores_GP2.cs",
+              "DocumentMoniker": "C:\\Users\\Luis del orbe\\source\\repos\\SistemaDeFarmacia\\Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2\\Proveedores_GP2.cs",
+              "RelativeDocumentMoniker": "Sistema_de _inventarioGP2\\Proveedores_GP2.cs",
+              "ToolTip": "C:\\Users\\Luis del orbe\\source\\repos\\SistemaDeFarmacia\\Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2\\Proveedores_GP2.cs",
+              "RelativeToolTip": "Sistema_de _inventarioGP2\\Proveedores_GP2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:15:37.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Proveedores_GP2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis del orbe\\source\\repos\\SistemaDeFarmacia\\Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2\\Proveedores_GP2.cs",
+              "RelativeDocumentMoniker": "Sistema_de _inventarioGP2\\Proveedores_GP2.cs",
+              "ToolTip": "C:\\Users\\Luis del orbe\\source\\repos\\SistemaDeFarmacia\\Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2\\Proveedores_GP2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema_de _inventarioGP2\\Proveedores_GP2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:15:32.648Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Menu_Principal_GP2.cs",
+              "DocumentMoniker": "C:\\Users\\Luis del orbe\\source\\repos\\SistemaDeFarmacia\\Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2\\Menu_Principal_GP2.cs",
+              "RelativeDocumentMoniker": "Sistema_de _inventarioGP2\\Menu_Principal_GP2.cs",
+              "ToolTip": "C:\\Users\\Luis del orbe\\source\\repos\\SistemaDeFarmacia\\Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2\\Menu_Principal_GP2.cs",
+              "RelativeToolTip": "Sistema_de _inventarioGP2\\Menu_Principal_GP2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:15:16.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Menu_Principal_GP2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis del orbe\\source\\repos\\SistemaDeFarmacia\\Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2\\Menu_Principal_GP2.cs",
+              "RelativeDocumentMoniker": "Sistema_de _inventarioGP2\\Menu_Principal_GP2.cs",
+              "ToolTip": "C:\\Users\\Luis del orbe\\source\\repos\\SistemaDeFarmacia\\Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2\\Menu_Principal_GP2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema_de _inventarioGP2\\Menu_Principal_GP2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:15:11.262Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InventarioGp2.cs",
+              "DocumentMoniker": "C:\\Users\\Luis del orbe\\source\\repos\\SistemaDeFarmacia\\Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2\\InventarioGp2.cs",
+              "RelativeDocumentMoniker": "Sistema_de _inventarioGP2\\InventarioGp2.cs",
+              "ToolTip": "C:\\Users\\Luis del orbe\\source\\repos\\SistemaDeFarmacia\\Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2\\InventarioGp2.cs",
+              "RelativeToolTip": "Sistema_de _inventarioGP2\\InventarioGp2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:15:03.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cachelogin.cs",
+              "DocumentMoniker": "C:\\Users\\Luis del orbe\\source\\repos\\SistemaDeFarmacia\\Sistema_de _inventarioGP2\\Capa_Gestion_de_seguridad\\cachelogin.cs",
+              "RelativeDocumentMoniker": "Capa_Gestion_de_seguridad\\cachelogin.cs",
+              "ToolTip": "C:\\Users\\Luis del orbe\\source\\repos\\SistemaDeFarmacia\\Sistema_de _inventarioGP2\\Capa_Gestion_de_seguridad\\cachelogin.cs",
+              "RelativeToolTip": "Capa_Gestion_de_seguridad\\cachelogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T20:34:26.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InventarioGp2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis del orbe\\source\\repos\\SistemaDeFarmacia\\Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2\\InventarioGp2.cs",
+              "RelativeDocumentMoniker": "Sistema_de _inventarioGP2\\InventarioGp2.cs",
+              "ToolTip": "C:\\Users\\Luis del orbe\\source\\repos\\SistemaDeFarmacia\\Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2\\InventarioGp2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema_de _inventarioGP2\\InventarioGp2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:15:01.27Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Facturacion_GP2.cs",
+              "DocumentMoniker": "C:\\Users\\Luis del orbe\\source\\repos\\SistemaDeFarmacia\\Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2\\Facturacion_GP2.cs",
+              "RelativeDocumentMoniker": "Sistema_de _inventarioGP2\\Facturacion_GP2.cs",
+              "ToolTip": "C:\\Users\\Luis del orbe\\source\\repos\\SistemaDeFarmacia\\Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2\\Facturacion_GP2.cs",
+              "RelativeToolTip": "Sistema_de _inventarioGP2\\Facturacion_GP2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:14:51.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Facturacion_GP2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis del orbe\\source\\repos\\SistemaDeFarmacia\\Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2\\Facturacion_GP2.cs",
+              "RelativeDocumentMoniker": "Sistema_de _inventarioGP2\\Facturacion_GP2.cs",
+              "ToolTip": "C:\\Users\\Luis del orbe\\source\\repos\\SistemaDeFarmacia\\Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2\\Facturacion_GP2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema_de _inventarioGP2\\Facturacion_GP2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:14:48.452Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Clientes_GP2.cs",
+              "DocumentMoniker": "C:\\Users\\Luis del orbe\\source\\repos\\SistemaDeFarmacia\\Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2\\Clientes_GP2.cs",
+              "RelativeDocumentMoniker": "Sistema_de _inventarioGP2\\Clientes_GP2.cs",
+              "ToolTip": "C:\\Users\\Luis del orbe\\source\\repos\\SistemaDeFarmacia\\Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2\\Clientes_GP2.cs",
+              "RelativeToolTip": "Sistema_de _inventarioGP2\\Clientes_GP2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:14:33.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luis del orbe\\source\\repos\\SistemaDeFarmacia\\Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2\\Program.cs",
+              "RelativeDocumentMoniker": "Sistema_de _inventarioGP2\\Program.cs",
+              "ToolTip": "C:\\Users\\Luis del orbe\\source\\repos\\SistemaDeFarmacia\\Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2\\Program.cs",
+              "RelativeToolTip": "Sistema_de _inventarioGP2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T20:52:03.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Clientes_GP2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis del orbe\\source\\repos\\SistemaDeFarmacia\\Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2\\Clientes_GP2.cs",
+              "RelativeDocumentMoniker": "Sistema_de _inventarioGP2\\Clientes_GP2.cs",
+              "ToolTip": "C:\\Users\\Luis del orbe\\source\\repos\\SistemaDeFarmacia\\Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2\\Clientes_GP2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema_de _inventarioGP2\\Clientes_GP2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:14:31.321Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Bienvenida.cs",
+              "DocumentMoniker": "C:\\Users\\Luis del orbe\\source\\repos\\SistemaDeFarmacia\\Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2\\Bienvenida.cs",
+              "RelativeDocumentMoniker": "Sistema_de _inventarioGP2\\Bienvenida.cs",
+              "ToolTip": "C:\\Users\\Luis del orbe\\source\\repos\\SistemaDeFarmacia\\Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2\\Bienvenida.cs",
+              "RelativeToolTip": "Sistema_de _inventarioGP2\\Bienvenida.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T20:46:26.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Bienvenida.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis del orbe\\source\\repos\\SistemaDeFarmacia\\Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2\\Bienvenida.cs",
+              "RelativeDocumentMoniker": "Sistema_de _inventarioGP2\\Bienvenida.cs",
+              "ToolTip": "C:\\Users\\Luis del orbe\\source\\repos\\SistemaDeFarmacia\\Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2\\Bienvenida.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema_de _inventarioGP2\\Bienvenida.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:14:17.624Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Creador_de_factura.cs",
+              "DocumentMoniker": "C:\\Users\\Luis del orbe\\source\\repos\\SistemaDeFarmacia\\Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2\\Creador_de_factura.cs",
+              "RelativeDocumentMoniker": "Sistema_de _inventarioGP2\\Creador_de_factura.cs",
+              "ToolTip": "C:\\Users\\Luis del orbe\\source\\repos\\SistemaDeFarmacia\\Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2\\Creador_de_factura.cs",
+              "RelativeToolTip": "Sistema_de _inventarioGP2\\Creador_de_factura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T20:43:26.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Inicio_Sesion.cs",
+              "DocumentMoniker": "C:\\Users\\Luis del orbe\\source\\repos\\SistemaDeFarmacia\\Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2\\Inicio_Sesion.cs",
+              "RelativeDocumentMoniker": "Sistema_de _inventarioGP2\\Inicio_Sesion.cs",
+              "ToolTip": "C:\\Users\\Luis del orbe\\source\\repos\\SistemaDeFarmacia\\Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2\\Inicio_Sesion.cs",
+              "RelativeToolTip": "Sistema_de _inventarioGP2\\Inicio_Sesion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T20:38:54.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Inicio_Sesion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Luis del orbe\\source\\repos\\SistemaDeFarmacia\\Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2\\Inicio_Sesion.cs",
+              "RelativeDocumentMoniker": "Sistema_de _inventarioGP2\\Inicio_Sesion.cs",
+              "ToolTip": "C:\\Users\\Luis del orbe\\source\\repos\\SistemaDeFarmacia\\Sistema_de _inventarioGP2\\Sistema_de _inventarioGP2\\Inicio_Sesion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sistema_de _inventarioGP2\\Inicio_Sesion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T20:39:10.646Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,18 +1,13 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using System.Runtime.InteropServices;
 using System.Windows.Forms;
-using System.Data.SqlClient;
-using System.Data;
 using Capa_Gestion_de_seguridad;
 
 
 namespace Sistema_de__inventarioGP2
 {
-   public class Creador_de_factura
+    public class Creador_de_factura
     {
         
 

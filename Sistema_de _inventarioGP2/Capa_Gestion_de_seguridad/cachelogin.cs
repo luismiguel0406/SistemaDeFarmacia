@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Capa_Gestion_de_seguridad
+﻿namespace Capa_Gestion_de_seguridad
 {
     public static class cachelogin
     {

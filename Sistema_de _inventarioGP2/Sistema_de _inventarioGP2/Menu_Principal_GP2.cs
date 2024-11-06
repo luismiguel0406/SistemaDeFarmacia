@@ -1,15 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;//mover el formulario
 using System.Data.SqlClient;//servicios sql
-using System.IO;
 using Capa_Gestion_de_seguridad;
 
 namespace Sistema_de__inventarioGP2

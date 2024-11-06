@@ -1,11 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;
 using System.Data.SqlClient;// se agrega este using para poder usar las consultas de SQL
@@ -36,7 +31,8 @@ namespace Sistema_de__inventarioGP2
 
         public bool login (string nombre,string contraseña)
         {
-
+         
+            
             SqlConnection conlog = new SqlConnection(cnn());
             conlog.Open();
             using (var comando = new SqlCommand())
